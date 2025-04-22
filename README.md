@@ -33,3 +33,4 @@ demonstrere hvordan i har løst opgaven med modal komponentet.
 Derudover skal i aflevere et link (på Microsoft Teams) til det Github repository hvor jeres gruppes komponent findes.
 
 fra bo
+endnu mere fra bo
