@@ -31,3 +31,5 @@ Præsentationen skal højest vare fem minutter og skal besvare de tre spørgsmå
 demonstrere hvordan i har løst opgaven med modal komponentet.
 
 Derudover skal i aflevere et link (på Microsoft Teams) til det Github repository hvor jeres gruppes komponent findes.
+
+fra bo
